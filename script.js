@@ -17,3 +17,15 @@ function largestOfAll(arrays){
     }
     return largestArray;
 }
+
+const largestArray = largestOfAll(arr);
+console.log(largestArray);
+
+const largestArray1 = largestOfAll(arr1);
+console.log(largestArray1);
+
+const largestArray2 = largestOfAll(arr2);
+console.log(largestArray2);
+
+const largestArray3 = largestOfAll(arr3);
+console.log(largestArray3);
