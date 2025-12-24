@@ -91,3 +91,10 @@ Voici un aperçu du résultat visible dans la console :
     - Ou via Node.js :
       ```bash
       node script.js
+
+---
+
+## Auteur
+Projet réalisé par **Idriss Enone** dans le cadre d’un apprentissage en JavaScript.
+
+---
